@@ -46,7 +46,7 @@ These platforms help in building a strong digital presence.
 
 * Created account on HackerRank
 * Completed beginner-level coding challenge
-* Created Digital Literacy quiz using Google Forms
+* Created Digital Literacy quiz using Google Forms: https://docs.google.com/forms/d/1EjyeE5os1AIQfOrmxZV0D0ctS3GDWKWX6rV0SrdbCQI/edit#responses
 * Linked responses to Google Sheets for analysis
 
 This task improved my coding and collaboration skills.
